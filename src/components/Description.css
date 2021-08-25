@@ -1,0 +1,25 @@
+.image1{
+    height:500px;
+    width:900px;
+    border-radius:15px;
+
+}
+.descloc{
+    margin:15px;
+    font-family: 'Abril Fatface', cursive;
+    font-size:35px;
+    
+}
+.descpara{
+    max-width:1000px;
+    font-size:18px;
+    /* margin:10px; */
+    font-family: 'Lora', serif;
+    /* text-align:justify; */
+    line-height: 32px;
+}
+.desc{
+ 
+  display: inline-block;
+
+}

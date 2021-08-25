@@ -1,0 +1,15 @@
+if ((el.type === type[index1]) & (el.state === state1)) {
+          setName({
+            ...name,
+            state: el.state,
+            type: el.type,
+            url: el.url,
+            place: el.place,
+            location: el.location,
+            desc: el.desc,
+          });
+          setNames([...names, name]);
+
+          "Kerala is probably the greenest place you will ever see, it is one of the 10 paradises in the world. The coconut palms, the red tiles houses, the innumerable lakes and beaches will remain long lasting impressions to any visitor.The colourful festivals, various types of dances, martial arts and wildlife sanctuaries are the other attractions.
+           
+             Legend says that Parashuram, the sixth incarnation of Lord Vishnu threw his axe into the sea from Gokarnam (near present day Manglore) and it is believed the sea retreated from where his axe fell to give birth to Kerala!"
